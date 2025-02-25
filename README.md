@@ -11,8 +11,14 @@ Making life easier and more convinient through programs and application.
 Security threats and privacy concerns, software engineering plays a role by protecting sensitive information and mitigate potential risks
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-
-
+the birth of Structured Programming (1960s-1970s)
+What happened?: Before this time, computer programs were messy and hard to understand, like mixed wires. Programmers would write code that was all tangled and confusing.
+What changed?: People started organizing their code better, using clear steps and rules, so it was easier to read and fix. 
+Object-Oriented Programming (OOP) (1980s)
+programmers started grouping things together in a smart way, so they could build big programs out of small, simple pieces.
+By Grouping things in a smart way programmers could reuse their code and make changes more easily. so you dont have to start from scratch each time
+Agile and DevOps (2000s-present)
+Before this time, creating a program could take a long time, and sometimes people would only see the results after months of work. But programmers realized it was better to show small updates regularly and ask for feedback to make sure the program is getting better.
 List and briefly explain the phases of the Software Development Life Cycle.
 
 

@@ -5,7 +5,10 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
+Basically software Engineering is like writing  a code that is within the realm of what to do between frontend or backend, or process of designing Maintaining and innovation ,Testing and developing software , Like Youtube has to run well.
+Critical in supporting Business growth and innovation.
+Making life easier and more convinient through programs and application.
+Security threats and privacy concerns, software engineering plays a role by protecting sensitive information and mitigate potential risks
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
